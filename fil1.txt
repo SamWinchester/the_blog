@@ -1,0 +1,1 @@
+{'ProjectName': 'Quickcheck', 'GithubLink': 'https://github.intuit.com/ContentMgmt/cas-aws-deploy', 'ProjectDesc': 'THis is the the descption sfgsgsg', 'Automationtags': 'on', 'Resiliencytags': 'on'}
